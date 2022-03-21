@@ -1,2 +1,2 @@
 # hello-world
-A short description
+This is a test of Branching and so on for HealthTrust Git work
